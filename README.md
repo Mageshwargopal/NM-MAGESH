@@ -45,12 +45,3 @@ Ensemble modeling with XGBoost and ARIMA
 Hyperparameter tuning for LSTM model
 Deploy top model to production environment
 
-References
-Brownlee, J. (2020). Time Series Forecasting With Prophet in Python. Machine Learning Mastery.
-Brownlee, J. (2020). Multivariate Time Series Forecasting With LSTMs in Keras. Machine Learning Mastery.
-Hyndman, R.J. and Athanasopoulos, G. (2021). Forecasting: principles and practice. OTexts.
-Makridakis, S., Spiliotis, E. and Assimakopoulos, V. (2020). The M4 Competition: 100,000 time series and 61 forecasting methods. International Journal of Forecasting.
-Montero-Manso, P., Athanasopoulos, G., Hyndman, R.J. and Talagala, T.S. (2020). FFORMA: Feature-based Forecasting Model Averaging. International Journal of Forecasting.
-Siami-Namini, S., Tavakoli, N. and Namin, A.S. (2018). A Comparison of ARIMA and LSTM in Forecasting Time Series. 17th IEEE International Conference on Machine Learning and Applications (ICMLA).
-Tseng, F.M., Yu, H.C. and Tzeng, G.H. (2002). Combining neural network model with seasonal time series ARIMA model. Technological Forecasting and Social Change.
-Zhang, G.P. (2003). Time series forecasting using a hybrid ARIMA and neural network model. Neurocomputing.
