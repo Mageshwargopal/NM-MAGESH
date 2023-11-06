@@ -28,14 +28,14 @@ The data used is monthly retail sales data with the following features:
 
 *Files*
 
-data_loading.py - Script for loading and preprocessing data
-eda.py - Exploratory data analysis visualizations
-feature_engineering.py - Script for feature engineering steps
-models.py - Code for training and evaluating machine learning models
-model_selection.py - Model selection based on performance metrics
-arima.py - ARIMA time series model building
-lstm.py - LSTM neural network model
-model_results.csv - Performance results for comparison
+1)data_loading.py - Script for loading and preprocessing data
+2)eda.py - Exploratory data analysis visualizations
+3)feature_engineering.py - Script for feature engineering steps
+4)models.py - Code for training and evaluating machine learning models
+5)model_selection.py - Model selection based on performance metrics
+6)arima.py - ARIMA time series model building
+7)lstm.py - LSTM neural network model
+8)model_results.csv - Performance results for comparison
 
 *Usage*
 
@@ -47,8 +47,8 @@ The XGBoost model performed best with lowest MAE and RMSE on test data. The ARIM
 
 *Future Work*
 
-Try more advanced feature engineering and external datasets
-Ensemble modeling with XGBoost and ARIMA
-Hyperparameter tuning for LSTM model
-Deploy top model to production environment
+1)Try more advanced feature engineering and external datasets
+2)Ensemble modeling with XGBoost and ARIMA
+3)Hyperparameter tuning for LSTM model
+4)Deploy top model to production environment
 
